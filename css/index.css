@@ -37,7 +37,7 @@ body {
 /* Hero Section */
 .first-section {
     background-color: lightgrey;
-    padding: 4rem 0;
+    padding: 5rem 0;
 }
 
 .first-section h1 {
@@ -47,7 +47,7 @@ body {
 
 /* Second Section */
 .second {
-    background-color: light-grey;
+    background-color: lightgrey;
 }
 
 .card {
